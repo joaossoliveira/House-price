@@ -1,4 +1,5 @@
 **Projeto:** Grupo 1 - House Price
+
 **Problema de Negócio:**  
 O setor imobiliário ocupa um papel estratégico na economia brasileira, refletindo diretamente nas transformações econômicas e sociais do país. Apesar de sua importância, a precificação adequada ainda é um ponto sensível, especialmente diante das variações regionais e das múltiplas características que afetam o valor de uma propriedade (De Lucena, 2024).
 Uma pesquisa realizada pelo Datafolha em parceria com o QuintoAndar (2024) destaca que um em cada três proprietários brasileiros tem dificuldades para definir o preço de venda ou aluguel de seus imóveis. A principal barreira identificada é a ausência de informações confiáveis sobre os valores praticados no mercado. Além disso, 65% dos brasileiros já desistiram de fechar um contrato por receio de estarem pagando ou cobrando um valor inadequado.
